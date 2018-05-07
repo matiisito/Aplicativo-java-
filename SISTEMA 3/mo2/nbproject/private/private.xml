@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/gus/Desktop/mo2/web/AgregarOferta.jsp</file>
+            <file>file:/C:/Users/gus/Desktop/mo2/web/Descuentos.jsp</file>
+            <file>file:/C:/Users/gus/Desktop/mo2/src/java/Enviar_Email_Java_Netbeans/EnviarCorreo.java</file>
+            <file>file:/C:/Users/gus/Desktop/mo2/src/java/controlador/GenerarPDFValoraciones.java</file>
+            <file>file:/C:/Users/gus/Desktop/mo2/src/java/dto/ValoracionDTO.java</file>
+            <file>file:/C:/Users/gus/Desktop/mo2/src/java/Enviar_Email_Java_Netbeans/JCMail.java</file>
+            <file>file:/C:/Users/gus/Desktop/mo2/web/LoginConsumidor.jsp</file>
+            <file>file:/C:/Users/gus/Desktop/mo2/web/registroUsuario.jsp</file>
+            <file>file:/C:/Users/gus/Desktop/mo2/web/AgregarProducto.jsp</file>
+            <file>file:/C:/Users/gus/Desktop/mo2/src/java/controlador/RegistrarProducto.java</file>
+            <file>file:/C:/Users/gus/Desktop/mo2/web/Ofertas.jsp</file>
+            <file>file:/C:/Users/gus/Desktop/mo2/src/java/controlador/GenerarCupon.java</file>
+            <file>file:/C:/Users/gus/Desktop/mo2/web/Productos.jsp</file>
+            <file>file:/C:/Users/gus/Desktop/mo2/src/java/controlador/GenerarPDF.java</file>
+            <file>file:/C:/Users/gus/Desktop/mo2/web/CuponDescuento.jsp</file>
+            <file>file:/C:/Users/gus/Desktop/mo2/web/ValorarOferta.jsp</file>
+            <file>file:/C:/Users/gus/Desktop/mo2/web/OfertasConsumidor.jsp</file>
+            <file>file:/C:/Users/gus/Desktop/mo2/src/java/dao/OfertaDAO.java</file>
+            <file>file:/C:/Users/gus/Desktop/mo2/web/MenuTiendaRetail.jsp</file>
+            <file>file:/C:/Users/gus/Desktop/mo2/src/java/controlador/ModificarProducto.java</file>
+            <file>file:/C:/Users/gus/Desktop/mo2/web/VerOfertaDetalle.jsp</file>
+            <file>file:/C:/Users/gus/Desktop/mo2/src/java/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/gus/Desktop/mo2/web/EditarOferta.jsp</file>
+            <file>file:/C:/Users/gus/Desktop/mo2/web/layouts/headerCliente.jsp</file>
+            <file>file:/C:/Users/gus/Desktop/mo2/web/EditarProducto.jsp</file>
+        </group>
+    </open-files>
+</project-private>
